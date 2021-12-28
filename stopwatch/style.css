@@ -1,0 +1,19 @@
+.text1 {
+    color: brown;
+    font-size: 150px;
+   
+}
+.stopWatchtext {
+    text-align: center;
+    margin: 50px;
+}
+
+.hrmin {
+    
+    color: brown;
+    font-size: 150px;
+   
+}
+.sec {
+    font-size: 50px;
+}
